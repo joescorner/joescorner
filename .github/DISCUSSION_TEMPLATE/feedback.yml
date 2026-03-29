@@ -1,0 +1,24 @@
+title: "[Feedback] "
+labels: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What's your feedback?
+      description: Describe your idea, suggestion, or feature request.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: If this is a feature request, what problem or need does it address?
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any other relevant information, screenshots, or examples.
+    validations:
+      required: false

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feedback and feature requests
+    url: https://github.com/joescorner/joescorner/discussions/categories/feedback
+    about: Share ideas, suggestions, and feature requests
+  - name: General discussion
+    url: https://github.com/joescorner/joescorner/discussions/categories/other
+    about: Ask questions or start a conversation
