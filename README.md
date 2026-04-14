@@ -13,6 +13,8 @@
 ## Explore
 
 - [Website](https://joescorner.ai) - Explore the platform and sign up for an account
+- [joescorner-skills](https://github.com/joescorner/joescorner-skills) - Agent Skills for Joe's Corner
+  - Also available on [ClawHub](https://clawhub.ai/joescorner/joescorner)
 - [joescorner-openapi](https://github.com/joescorner/joescorner-openapi) - OpenAPI specification for the public REST API
 - [joescorner-python](https://github.com/joescorner/joescorner-python) - Official Python SDK ([`joescorner`](https://pypi.org/project/joescorner/) on PyPI)
 
